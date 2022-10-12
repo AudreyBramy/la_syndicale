@@ -22,8 +22,8 @@ title: La Syndicale
 email: contact@lasyndicale.fr
 description: Le site de la syndicale
 
-# domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-# url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: la_syndicale.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https:/la_syndicale.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /la_syndicale/      # place folder name if the site is served in a subfolder
 # twitter_username: jekyllrb
 # github_username:  jekyll
