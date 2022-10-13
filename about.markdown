@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Qui sommes-nous ?
+permalink: /a-propos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Un syndicat féministe du travail gratuit qui a pour objectif l’entraide et la défense des intérêts des femmes.
+Deux première propositions : l’organisations de groupes de paroles et des stages d’auto défense.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Le mouvement fonctionnera grâce aux militantes de terrain organisées au ssein des groupes locaux qui feront remonter les besoins à la coordination nationale. Les groupes de parole et les stages d'auto-défense seront des solutions concrètes diffussés par La Syndicale pour que chacune puisse prendre conscience et retrouver le pouvoir dans sa vie grâce au soutien d'une communauté solidaire.

@@ -1,7 +1,11 @@
 # la_syndicale
 
-## Developpement 
+## Developpement
+
 Lancer jekyl
+
 ```
+
 $ bundle exec jekyll serve
+
 ```
