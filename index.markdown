@@ -5,6 +5,8 @@
 layout: home
 ---
 Bienvenu sur le site de La Syndicale.
+
+<!--
 Un syndicat féministe du travail gratuit qui a pour objectif l’entraide et la défense des intérêts des femmes.
 Deux première propositions : l’organisations de groupes de paroles et des stages d’auto défense.
 
@@ -17,4 +19,5 @@ Le mouvement fonctionnera grâce aux militantes de terrain organisées au ssein 
 - Léa Egret : Entrepreneuse, fondatrice de Compostons et du Réseau Composte Citoyen Occitanie
 - Gwenaëlle Ferré : Formatrice
 - Yéléna Perret : Chargée de mission, "Notre Corps nous même"
-- Patricia Sireyjol : Sociologue, consultante pour les syndicat
+- Patricia Sireyjol : Sociologue, consultante pour les syndicat 
+-->
